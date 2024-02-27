@@ -28,7 +28,7 @@ Welcome to SAI Technology, your premier partner in digital innovation and AI-dri
 
 #
 
- <summary><h3>👨‍💻 Our Journey</h3></summary>
+<h3>👨‍💻 Our Journey</h3>
 Our coding odyssey at SAI Technology began in 2021, with a clear AI-first vision. As a company founded by a former finance and civil engineering student with a profound passion for technology, we have been on a relentless pursuit of innovation. 
 
 The journey has been marked by a deep dive into databases, cloud services, and DevOps, enabling us to grow into a versatile technology company. Under Shareef's leadership as CEO & CTO, we have been steering our tech vision forward while maintaining a strong foundation in coding.
